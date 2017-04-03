@@ -1,0 +1,1 @@
+java -jar Predictor.jar GOOG\Google_d1.csv
